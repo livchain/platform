@@ -1,1 +1,1 @@
-# platfomr
+# platform
